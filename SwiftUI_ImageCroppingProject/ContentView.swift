@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//This is just using photoPicker
 struct ContentView: View {
     // View Properties
     @State private var showPicker: Bool = false
