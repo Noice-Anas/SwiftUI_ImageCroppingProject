@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-//This is just using photoPicker
+//This is just using photoPicker and another even newer change (this comment is testing the github)
 struct ContentView: View {
     // View Properties
     @State private var showPicker: Bool = false
